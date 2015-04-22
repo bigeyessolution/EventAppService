@@ -1,0 +1,10 @@
+{
+	"name": "EventApp",
+	"autoload": 
+	{
+		"psr-4": 
+		{
+			"BigEyesSolution\\EventApp":"src/BigEyesSolution/EventApp"
+		}
+	}
+}
